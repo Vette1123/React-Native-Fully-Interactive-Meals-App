@@ -19,7 +19,7 @@ An early-stage React Native learning project: tab-based mobile UI for a meal-ord
 - **Safe-area handling** — `SafeArea` wrapper using `react-native-safe-area-context` so layouts respect notches and status bars.
 - **Mocked restaurants service** — promise-based `restaurantsRequest` reads from local mock data, ready to swap for a real API.
 
-> Status: foundation milestone. Map and Settings tabs are placeholder screens — the focus so far is the Restaurants feature, theming, and navigation scaffold.
+> Status: foundation milestone. Map and Settings tabs are placeholder screens. So far the work has gone into the Restaurants feature, theming and the navigation scaffold.
 
 ## 🛠️ Tech Stack
 
